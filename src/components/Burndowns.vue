@@ -17,7 +17,7 @@ export default {
         chartsData:[
             {
                 id:1,
-                title: "test name changed",
+                title: "Look at me! - Jody",
                 startDate:"04/16/2018",
                 endDate:"04/23/2018",
                 initialEstimate: 20,
